@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Slidezzle</string>
+    <string name="time_count">Tempo</string>
+    <string name="step_count">Movimenti</string>
+    <string name="change_picture">Scegliere Immagine</string>
+    <string name="restart">Riavviare</string>
+    <string name="look_up_original_picture">Immagine originale</string>
+    <string name="win_prompt_format">Hai vinto! Esausti %1$s, %2$s movimenti.</string>
+    <string name="confirm_restart_msg">Vuoi riavviare? andrà perso i tuoi progressi.</string>
+    <string name="confirm">Conferma</string>
+    <string name="cancel">Annulla</string>
+    <string name="choose_picture_to_start">Fare clic per avviare</string>
+    <string name="choose_from_gallery">Scegli tra Gallery</string>
+    <string name="crop">Tagliare</string>
+    <string name="not_started">Senza avvio.</string>
+    <string name="default_time">00:00</string>
+    <string name="default_step">0</string>
+</resources>

@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Slidezzle</string>
+    <string name="time_count">Time</string>
+    <string name="step_count">Steps</string>
+    <string name="change_picture">Change Picture</string>
+    <string name="restart">Restart</string>
+    <string name="look_up_original_picture">Original Picture</string>
+    <string name="win_prompt_format">You won! Spent %1$s, moved %2$s steps.</string>
+    <string name="confirm_restart_msg">Are you sure to restart? All game status will be lost.</string>
+    <string name="confirm">Confirm</string>
+    <string name="cancel">Cancel</string>
+    <string name="choose_picture_to_start">Click here to start a game</string>
+    <string name="choose_from_gallery">Choose From Gallery</string>
+    <string name="bottom_button_trans_name" translatable="false">bottom button trans</string>
+    <string name="crop">Crop</string>
+    <string name="not_started">You haven\'t started yet.</string>
+    <string name="default_time">00:00</string>
+    <string name="default_step">0</string>
+    <string-array name="level_array" translatable="false">
+        <item>SuperEasy</item>
+        <item>Easy</item>
+        <item>Normal</item>
+        <item>Hard</item>
+        <item>SuperHard</item>
+        <item>God</item>
+        <item>Insane</item>
+    </string-array>
+</resources>
